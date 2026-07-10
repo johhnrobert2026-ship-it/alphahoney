@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://uk-betfair.co.uk/sitemap.xml
+Sitemap: https://johhnrobert2026-ship-it.github.io/alphahoney/sitemap.xml
